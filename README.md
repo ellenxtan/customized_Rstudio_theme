@@ -1,6 +1,4 @@
-# Customized RStudio Theme
-
-# Custom R Theme to Resemble VS Code
+# Customized RStudio Theme to Resemble VS Code
 
 The theme is modified based on  [Michael Asher's](https://github.com/michaelasher/CustomRStudioTheme) to resemble VS code.
 
